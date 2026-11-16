@@ -13,7 +13,7 @@
 | [stp](stp/SKILL.md) | 조사 파일을 맞대어 교차 분석, 세분화·타겟팅·포지셔닝, 페르소나 | `stp.md` + `.html` |
 | [fact-check](fact-check/SKILL.md) | 결과 파일의 숫자·제도·경쟁사 정보를 1차 출처로 확인해 ✅⚠️❌❓로 판정하고, 어느 파일을 어떤 순서로 고칠지 정리 | `fact-check.md` + `.html` |
 | [business-canvas](business-canvas/SKILL.md) | 비즈니스 모델 캔버스 9칸, 맞물림·가정 점검, 무엇부터 할까 | `business-canvas.md` + `.html` |
-| [expert-review](expert-review/SKILL.md) | 전문성이 다른 서브에이전트 3명에게 따로 검토받아 합의·이견·확신도로 종합. 전문가와 질문은 사용자가 고름 | `expert-review.md` + `.html` |
+| [expert-review](expert-review/SKILL.md) | 전문가 3명의 관점마다 평가 질문을 뽑고 그 질문에 답하는 방식으로 검토해 합의·이견·확신도로 종합. 전문가와 질문은 사용자가 고름 | `expert-review.md` + `.html` |
 
 ## 흐름
 
