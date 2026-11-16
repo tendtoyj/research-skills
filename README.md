@@ -1,6 +1,6 @@
 # 시장조사 스킬
 
-주제 찾기부터 시장 스캔, 경쟁사 분석, 소셜 리스닝, STP, 비즈니스 모델 캔버스까지 이어지는 **시장조사 스킬 6개**입니다. 특정 분야에 묶이지 않는 일반 스킬이고, 각 폴더의 `SKILL.md` 하나로 완결됩니다.
+주제 찾기부터 시장 스캔, 경쟁사 분석, 소셜 리스닝, STP, 팩트체크, 비즈니스 모델 캔버스까지 이어지는 **시장조사 스킬 7개**입니다. 특정 분야에 묶이지 않는 일반 스킬이고, 각 폴더의 `SKILL.md` 하나로 완결됩니다.
 
 ## 스킬
 
@@ -11,6 +11,7 @@
 | [competitor-analysis](competitor-analysis/SKILL.md) | 직접·간접 경쟁사와 대체재, 포지셔닝·가격·채널, 3C·SWOT, 빈틈 | `competitive-intel.md` + `.html` |
 | [customer-voice](customer-voice/SKILL.md) | 소셜 리스닝: 사용 장면, 불편, 대신 하는 것, 가설, 인터뷰 질문 | `customer-voice.md` + `.html` |
 | [stp](stp/SKILL.md) | 조사 파일을 맞대어 교차 분석, 세분화·타겟팅·포지셔닝, 페르소나 | `stp.md` + `.html` |
+| [fact-check](fact-check/SKILL.md) | 결과 파일의 숫자·제도·경쟁사 정보를 1차 출처로 확인해 ✅⚠️❌❓로 판정하고, 어느 파일을 어떤 순서로 고칠지 정리 | `fact-check.md` + `.html` |
 | [business-canvas](business-canvas/SKILL.md) | 비즈니스 모델 캔버스 9칸, 맞물림·가정 점검, 무엇부터 할까 | `business-canvas.md` + `.html` |
 
 ## 흐름
@@ -20,7 +21,9 @@
         ↓
 /market-scanner · /competitor-analysis · /customer-voice   (필요한 것만, 따로 진행 가능)
         ↓
-/stp → /business-canvas
+/stp → /fact-check (새 채팅) → 조사 파일·STP 보완 (-v2)
+        ↓
+/business-canvas
 ```
 
 - 각 조사 스킬은 작업 공간에 이미 있는 조사 파일을 먼저 읽고 이어서 씁니다.
@@ -42,7 +45,7 @@
 이 저장소의 스킬을 모두 가져와 줘: <이 저장소 링크>
 ```
 
-스킬 저장 카드에서 저장한 뒤, 입력창에 `/`를 쳐서 6개가 보이는지 확인합니다.
+스킬 저장 카드에서 저장한 뒤, 입력창에 `/`를 쳐서 7개가 보이는지 확인합니다.
 
 ### 그 밖의 에이전트
 
